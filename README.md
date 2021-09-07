@@ -145,6 +145,22 @@ for ( i = 0; i < DTYPES.length; i++ ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/ndarray/casting-modes`][@stdlib/ndarray/casting-modes]: list of ndarray casting modes.
+-   [`@stdlib/ndarray/dtypes`][@stdlib/ndarray/dtypes]: list of ndarray data types.
+-   [`@stdlib/ndarray/safe-casts`][@stdlib/ndarray/safe-casts]: return a list of ndarray data types to which a provided ndarray data type can be safely cast.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -202,7 +218,15 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-promotion-rules/main/LICENSE
 
+<!-- <related-links> -->
+
+[@stdlib/ndarray/casting-modes]: https://github.com/stdlib-js/ndarray-casting-modes
+
 [@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
+
+[@stdlib/ndarray/safe-casts]: https://github.com/stdlib-js/ndarray-safe-casts
+
+<!-- </related-links> -->
 
 </section>
 
