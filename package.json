@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-promotion-rules",
-  "version": "0.0.0",
+  "version": "0.0.8",
   "description": "Return the ndarray data type with the smallest size and closest kind to which ndarray data types can be safely cast.",
   "license": "Apache-2.0",
   "author": {
