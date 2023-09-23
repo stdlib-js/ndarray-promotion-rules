@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-promotion-rules",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Return the ndarray data type with the smallest size and closest kind to which ndarray data types can be safely cast.",
   "license": "Apache-2.0",
   "author": {
@@ -38,16 +38,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-own-property": "^0.0.7",
-    "@stdlib/ndarray-base-dtype-resolve-str": "^0.0.1",
-    "@stdlib/ndarray-dtypes": "^0.0.9",
-    "@stdlib/utils-keys": "^0.0.7",
-    "@stdlib/utils-library-manifest": "^0.0.8"
+    "@stdlib/assert-has-own-property": "^0.1.0",
+    "@stdlib/ndarray-base-dtype-resolve-str": "^0.1.0",
+    "@stdlib/ndarray-dtypes": "^0.1.0",
+    "@stdlib/utils-keys": "^0.1.0",
+    "@stdlib/utils-library-manifest": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-plain-object": "^0.0.7",
-    "@stdlib/assert-is-string": "^0.0.8",
-    "@stdlib/bench": "^0.0.12",
+    "@stdlib/assert-is-plain-object": "^0.1.0",
+    "@stdlib/assert-is-string": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
