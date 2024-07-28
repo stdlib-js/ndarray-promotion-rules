@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-promotion-rules/tags). For example,
+
+```javascript
 import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@v0.3.0-esm/index.mjs';
 ```
 
@@ -118,7 +123,7 @@ var out = promotionRules( 'foo', 'generic' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@esm/index.mjs';
-import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@v0.3.0-esm/index.mjs';
+import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@esm/index.mjs';
 
 var DTYPES;
 var dt1;
