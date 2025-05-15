@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-05)
+## Unreleased (2025-05-15)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d30fed0`](https://github.com/stdlib-js/stdlib/commit/d30fed0b3516e362f957aa15d1521b3b3fe6cefd) - **docs:** update examples _(by Athan Reines)_
 -   [`560e643`](https://github.com/stdlib-js/stdlib/commit/560e643d902d37529d503ba1c8bf5ac0dd88f926) - **chore:** fix EditorConfig lint errors [(#6549)](https://github.com/stdlib-js/stdlib/pull/6549) _(by Muhammad Taaha Tariq, Athan Reines)_
 
 </details>
