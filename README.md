@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@deno/mod.js';
+import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@v0.4.0-deno/mod.js';
 ```
 
 #### promotionRules( \[dtype1, dtype2] )
@@ -116,7 +116,7 @@ import cartesianProduct from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-cartes
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@deno/mod.js';
 import unzip from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-unzip@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@deno/mod.js';
+import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-promotion-rules@v0.4.0-deno/mod.js';
 
 // Get the list of supported ndarray data types:
 var dt = dtypes();
