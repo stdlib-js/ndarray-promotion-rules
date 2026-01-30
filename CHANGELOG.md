@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.4.0">
 
-## Unreleased (2025-06-29)
+## 0.4.0 (2026-01-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`6ccfa0f`](https://github.com/stdlib-js/stdlib/commit/6ccfa0fe61914f7812d55608d963affdb4500b2d) - **feat:** add support for `float16`, `complex32`, `int64`, and `uint64` dtypes _(by Athan Reines)_
 -   [`d30fed0`](https://github.com/stdlib-js/stdlib/commit/d30fed0b3516e362f957aa15d1521b3b3fe6cefd) - **docs:** update examples _(by Athan Reines)_
 -   [`560e643`](https://github.com/stdlib-js/stdlib/commit/560e643d902d37529d503ba1c8bf5ac0dd88f926) - **chore:** fix EditorConfig lint errors [(#6549)](https://github.com/stdlib-js/stdlib/pull/6549) _(by Muhammad Taaha Tariq, Athan Reines)_
@@ -48,10 +49,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Taaha Tariq
+-   Philipp Burckhardt
 
 </section>
 
